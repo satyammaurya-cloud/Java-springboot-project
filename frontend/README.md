@@ -85,6 +85,7 @@ source myenv/bin/activate   #Activate it
 
 pip install streamlit
 ```
+pip install plotly
 
 ## Access the Application
 
