@@ -77,7 +77,14 @@ streamlit run app.py
 ```
 The frontend application will start on port **8501**.
 
----
+Above command will fail try below steps and run app again
+### Create a virtual environment
+```bash
+python3 -m venv myenv
+source myenv/bin/activate   #Activate it
+
+pip install streamlit
+```
 
 ## Access the Application
 
